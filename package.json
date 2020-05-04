@@ -1,12 +1,12 @@
 {
   "name": "dsb-root",
   "version": "1.0.0",
-  "description": "finds and returns the root (global|window) object.",
-  "main": "index.js",  
-  "author": "Casey Dwayne <opensource@caseydwayne.com> (http://caseydwayne.com)",  
+  "description": "finds and returns the root (global | window) object.",
+  "main": "index.js",
+  "author": "Casey Dwayne <opensource@caseydwayne.com> (https://caseydwayne.com)",
   "devDependencies": {
-    "dsb-debug-mini": "latest"
+    "dsb-debug-mini": "^1.0.0"
   },
-  "license": "None",
+  "license": "NONE",
   "private": true
 }
