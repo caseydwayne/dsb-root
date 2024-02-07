@@ -4,9 +4,13 @@
   "description": "finds and returns the root (global | window) object.",
   "main": "index.js",
   "author": "Casey Dwayne <opensource@caseydwayne.com> (https://caseydwayne.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caseydwayne/dsb-root.git"
+  },
   "devDependencies": {
     "dsb-debug-mini": "^1.0.0"
   },
   "license": "NONE",
-  "private": true
+  "private": false
 }
